@@ -18,6 +18,7 @@
   "homepage": "https://github.com/wuuanito/NODE-JS-BASICO#readme",
   "description": "",
   "dependencies": {
+    "alert": "^6.0.2",
     "axios": "^1.7.9"
   }
 }
